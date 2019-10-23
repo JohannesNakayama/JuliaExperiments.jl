@@ -1,1 +1,2 @@
 using Statistics
+ print("Hello")
